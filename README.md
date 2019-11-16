@@ -1,1 +1,1 @@
-# Rect-Tetris
+# React-Tetris
